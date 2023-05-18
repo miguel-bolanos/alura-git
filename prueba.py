@@ -18,7 +18,7 @@ class SumaDos:
 
         elemento = self.datos[self.indice] + 2
 
-        self.indice += 1
+        self.indice += 1111
         print(elemento)
         return elemento
 
