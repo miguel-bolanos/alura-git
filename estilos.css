@@ -1,0 +1,48 @@
+h1 {
+    text-align: center;
+    
+}
+
+html {
+    background: rgb(211, 179, 179);
+    
+}
+
+em strong {
+    color: red;
+}
+
+#mision {
+    font-size: 25px;
+    text-align: center;
+}
+
+#banner {
+    width: 100%;
+}
+
+body {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+.items {
+    font-style: italic;
+}
+.diferencias{
+    background-color: rgb(214, 150, 150);
+    padding: 10px;
+}
+
+.diferencias h2 {
+    text-align: center;
+}
+.diferencias img {
+    width: 50%;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 10%;
+}
